@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mldncloud-config-client" />
+        <module name="mldncloud-config-server-7501" />
+        <module name="mldncloud-dept-service-8001" />
+        <module name="mldncloud-zuul-gateway-9501" />
+        <module name="mldncloud-consumer" />
+        <module name="mldncloud-eureka-7001" />
+        <module name="mldncloud-security" />
+        <module name="mldncloud-api" />
+        <module name="mldncloud-config-server-7503" />
+        <module name="mldncloud-config-server-7502" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

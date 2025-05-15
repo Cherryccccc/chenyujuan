@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/mldncloud-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mldncloud-config-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mldncloud-config-server-7501/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mldncloud-config-server-7502/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mldncloud-config-server-7503/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mldncloud-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mldncloud-dept-service-8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mldncloud-eureka-7001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mldncloud-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mldncloud-zuul-gateway-9501/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+  </component>
+</project>
