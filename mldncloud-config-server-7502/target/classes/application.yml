@@ -7,14 +7,14 @@ spring:
         encrypt:
           enabled: true 
         git:                  # 设置GIT连接地址
-          uri: git@github.com:mldn/mldncloud.git
+          uri: git@github.com:Cherryccccc/chenyujuan.git
 
 server:
   port: 7502                                      # 服务端口
 eureka:
   client:                                         # 客户端进行Eureka注册的配置
     service-url:                                  # 定义Eureka服务地址
-      defaultZone: http://edmin:mldnjava@eureka-7001.com:7001/eureka
+      defaultZone: http://edmin:mldnjava@localhost:7001/eureka
   instance:
     instance-id: config-7502.com                    # 显示主机名称
 
